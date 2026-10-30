@@ -1,0 +1,15 @@
+:root {
+  font-family: 'Montserrat', sans-serif;
+  color: #49202d;
+  background: #f7f0e7;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  scroll-behavior: smooth;
+}
+* { box-sizing: border-box; }
+body { margin: 0; min-width: 320px; }
+button, input, textarea, select { font: inherit; }
+button, a { -webkit-tap-highlight-color: transparent; }
+a { color: inherit; }
+::selection { background: #c5a15b; color: #49202d; }
