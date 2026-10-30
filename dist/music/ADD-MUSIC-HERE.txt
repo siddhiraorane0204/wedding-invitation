@@ -1,7 +1,0 @@
-Place your legally licensed MP3 audio file in this folder and name it:
-wedding-music.mp3
-
-The website expects this exact path:
-public/music/wedding-music.mp3
-
-Browsers usually require a visitor to press Play before background audio can start.
